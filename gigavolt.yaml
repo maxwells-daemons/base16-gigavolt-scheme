@@ -2,7 +2,7 @@ scheme: "Gigavolt"
 author: "Aidan Swope (http://github.com/Whillikers)"
 base00: "202126" # Background
 base01: "2d303d" # Lighter background
-base02: "706d60" # Selection background
+base02: "5a576e" # Selection background
 base03: "a1d2e6" # Comments
 base04: "cad3ff" # Dark foreground
 base05: "e9e7e1" # Foreground
