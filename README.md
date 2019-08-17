@@ -7,5 +7,8 @@ Currently supports base16.
 ### Palette
 ![palette](images/palette.png)
 
-### Vim
-![vim-palette](images/vim.png)
+### Vim (C)
+![vim-palette](images/vim_c.png)
+
+### Vim (Haskell)
+![vim-palette](images/vim_haskell.png)

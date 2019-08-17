@@ -1,18 +1,18 @@
 scheme: "Gigavolt"
 author: "Aidan Swope (http://github.com/Whillikers)"
-base00: "202126" # Background
-base01: "2d303d" # Lighter background
-base02: "5a576e" # Selection background
-base03: "a1d2e6" # Comments
-base04: "cad3ff" # Dark foreground
-base05: "e9e7e1" # Foreground
-base06: "eff0f9" # Light foreground
-base07: "f2fbff" # Light background
-base08: "ff661a" # Variables, diff deleted
-base09: "19f988" # Constants
-base0A: "ffdc2d" # Classes, search background
-base0B: "f2e6a9" # Strings, diff inserted
-base0C: "fb6acb" # Escape characters
-base0D: "40bfff" # Functions
-base0E: "ae94f9" # Keywords, diff changed
-base0F: "6187ff" # Delimiters
+base00: "#202126" # Background
+base01: "#2d303d" # Lighter background
+base02: "#5a576e" # Selection background
+base03: "#a1d2e6" # Comments
+base04: "#cad3ff" # Dark foreground
+base05: "#e9e7e1" # Foreground
+base06: "#eff0f9" # Light foreground
+base07: "#f2fbff" # Light background
+base08: "#ff661a" # Variables, diff deleted
+base09: "#19f988" # Constants
+base0A: "#ffdc2d" # Classes, search background
+base0B: "#f2e6a9" # Strings, diff inserted
+base0C: "#fb6acb" # Escape characters
+base0D: "#40bfff" # Functions
+base0E: "#ae94f9" # Keywords, diff changed
+base0F: "#6187ff" # Delimiters
